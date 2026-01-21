@@ -1,6 +1,6 @@
 package com.example.java.array;
 
-public class Array1Di4 {
+public class ArrayDi4 {
     public static void main(String[] args) {
         // 2 x 3 array
         int[][] arr = new int[2][3];
